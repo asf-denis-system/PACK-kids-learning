@@ -1,4 +1,4 @@
-# Kids Learning Pack: Полная спецификация
+﻿# Kids Learning Pack: Полная спецификация
 
 **Версия:** 1.0
 **Статус:** готово к пилотному опробованию в семьях
@@ -76,12 +76,13 @@ Pack состоит из **7 частей** и общей карты.
 
 ### Неделя 1 (входной ритм: 3–4 эпизода)
 
-1. Используйте [03-methods/_method-card-template.md](03-methods/_method-card-template.md) как шаблон.
-2. Проводите эпизоды в выбранном контексте (ванная, кухня, игра, прогулка) с возрастной длительностью:
+1. Используйте [04-work-products/05-week1-onboarding-checklist.md](04-work-products/05-week1-onboarding-checklist.md) как чек-лист запуска недели 1.
+2. Используйте [03-methods/_method-card-template.md](03-methods/_method-card-template.md) как общий шаблон эпизода.
+3. Проводите эпизоды в выбранном контексте (дом, прогулка, по пути, садик) с возрастной длительностью:
    - `3–6`: обычно 5–7 минут
    - `7–10`: обычно 10–15 минут
-3. Логируйте в [04-work-products/01-weekly-episode-log-template.md](04-work-products/01-weekly-episode-log-template.md).
-4. Посмотрите примеры в [04-work-products/03-episode-cards.md](04-work-products/03-episode-cards.md).
+4. Логируйте в [04-work-products/01-weekly-episode-log-template.md](04-work-products/01-weekly-episode-log-template.md).
+5. Посмотрите примеры в [04-work-products/03-episode-cards.md](04-work-products/03-episode-cards.md) и карточки причинности в [04-work-products/09-week4-causality-cards.md](04-work-products/09-week4-causality-cards.md).
 
 Дальше ритм наращивается по готовности семьи и ребёнка: от 3–4 эпизодов/неделю к почти ежедневному режиму (4–6 эпизодов/неделю) без перегруза.
 
@@ -226,6 +227,14 @@ Pack состоит из **7 частей** и общей карты.
 * [03-methods/00-index.md](03-methods/00-index.md) — карточки по всем Z-принципам
 * [03-methods/_method-card-template.md](03-methods/_method-card-template.md) — общий протокол эпизода
 * [04-work-products/03-episode-cards.md](04-work-products/03-episode-cards.md) — примеры готовых эпизодов
+* [04-work-products/09-week4-causality-cards.md](04-work-products/09-week4-causality-cards.md) — 10 готовых карточек "почему -> проверка -> уточнение"
+
+### Запуск и со-наставники
+
+* [04-work-products/05-week1-onboarding-checklist.md](04-work-products/05-week1-onboarding-checklist.md) — чек-лист запуска первой недели
+* [04-work-products/06-educator-onepager.md](04-work-products/06-educator-onepager.md) — памятка для воспитателя
+* [04-work-products/07-grandparents-onepager.md](04-work-products/07-grandparents-onepager.md) — памятка для бабушки/дедушки
+* [04-work-products/08-family-exocortex-template.md](04-work-products/08-family-exocortex-template.md) — шаблон семейного экзокортекса
 
 ### Отслеживание прогресса
 
@@ -274,3 +283,7 @@ Pack состоит из **7 частей** и общей карты.
 **Важно:** это спецификация, не книга. Не читайте линейно. Начните с «Быстрого старта», затем углубляйтесь по мере необходимости.
 
 Удачи!
+
+
+
+
