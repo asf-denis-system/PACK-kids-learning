@@ -1,5 +1,7 @@
 ﻿# Kids Learning Pack — Manifest
 
+**Навигационная цепочка входа:** [Manifest](00-pack-manifest.md) → [Ontology](ontology.md) → [Full Pack Map](07-map/01-full-pack-map.md)
+
 **Назначение:** Дать инженерный обзор области и опорные допущения для всего pack.
 **Читай это, если:** Нужна целостная картина перед работой с операционными карточками.
 
