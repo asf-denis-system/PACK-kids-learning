@@ -138,6 +138,7 @@ Z2 → Z0 → Z3 → Z1 → Z5 → Z4 → Z6 → Z7
 ≈1 цикл   ≈1 цикл  (обычно ~1 месяц практики на принцип)
 
 Карточки: 03-methods/preschool/
+Learning Path: 03-methods/learning-path-preschool-3-6.md
 
 
 ШКОЛЬНЫЙ ТРЕК (7–10 лет) — Глубина 1–2
@@ -150,6 +151,7 @@ Z2 → Z0 → Z3 → Z1 → Z5 → Z4 → Z6 → Z7
     (Глубина 1 ≈ 1 цикл (~1 мес) → Глубина 2 ≈ 1 цикл (~1 мес) → следующий принцип)
 
 Карточки: 03-methods/school/
+Learning Path: 03-methods/learning-path-school-7-10.md
 
 
 ПЕРЕХОДНАЯ ЗОНА (11–13 лет) — Глубина 2–3
