@@ -9,7 +9,7 @@
 
 | # | РП | Статус | Критерий готовности |
 |---|-----|--------|---------------------|
-| KLP-W11-001 | Собрать `Guide Map v0` для программы `DS-ZP-FP-for-kids` | pending | В `07-map/` есть рабочая карта тем Z0..Z7 + FP-маркеров с навигацией по трекам `preschool`/`school` |
+| KLP-W11-001 | Собрать `Guide Map v0` для программы `DS-ZP-FP-for-kids` | done (W13-008, 2026-03-15) | `07-map/01-full-pack-map.md` создан, README.md обновлён на реальную карту |
 | KLP-W11-002 | Зафиксировать learning paths v0 для возрастов 3-6 и 7-10 | done | В `DS-strategy/docs/kids-learning-paths-v0.md` определены две стартовые траектории, weekly-loop и правила перехода по циклам |
 | KLP-W11-003 | Довести пакет артефактов взрослого-наставника | done | Добавлен `04-work-products/10-weekly-loop-guide.md`, который связал `05/08/01/02/04` в один weekly-loop взрослого-наставника |
 | KLP-W11-004 | Зафиксировать критерии качества и применимости материалов | done | В `DS-strategy/docs/W11R-004-unified-packaging-template-v0.md` зафиксирован kids-specific DoD: проверяемость, перенос, возрастной трек, weekly-loop и защита от перегруза |

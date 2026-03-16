@@ -65,7 +65,7 @@ Pack состоит из **7 частей** и общей карты.
 ### День 0: 20 минут
 
 1. Прочитайте [00-pack-manifest.md](00-pack-manifest.md).
-2. Просмотрите [07-map/_map-template.md](07-map/_map-template.md) — архитектурную схему.
+2. Просмотрите [07-map/01-full-pack-map.md](07-map/01-full-pack-map.md) — архитектурную схему.
 3. Выберите трек: `дошкольный 3–6` ([03-methods/preschool/](03-methods/preschool/)) или `школьный 7–10` ([03-methods/school/](03-methods/school/)).
 
 ### День 1
@@ -249,7 +249,7 @@ Pack состоит из **7 частей** и общей карты.
 
 ### Контекст и карта
 
-* [07-map/_map-template.md](07-map/_map-template.md) — архитектура и цикл
+* [07-map/01-full-pack-map.md](07-map/01-full-pack-map.md) — архитектура и цикл
 * [06-sota/_sota-annotation-template.md](06-sota/_sota-annotation-template.md) — позиционирование относительно других подходов
 
 ---
